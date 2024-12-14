@@ -28,7 +28,7 @@ Transform your vehicles with ease! This dynamic script lets players swap their r
 
 # 🌐 Download Now on GitHub
 
-🛠️ GitHub: [Shape-Shifting Car Mod](Insert your GitHub link here)
+🛠️ GitHub: https://github.com/johnny-development/-FREE-QBCORE-Shape-Shifting-Car-Mod
 
 # 🚀 Enhance your FiveM server with this unique vehicle mod!
 
